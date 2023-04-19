@@ -7,3 +7,16 @@ As a "self-taught" developer, I never had the opportunity to learn about data st
 
 ### Graphs
 A series of nodes/vertices with some amount of connections.
+
+- cyclic
+   - has a loop
+- acyclic
+    - no loops
+- directed
+   - has arrows
+- undirected
+   - no arrows
+- weighted
+    - has values
+- unweighted
+    - no values
