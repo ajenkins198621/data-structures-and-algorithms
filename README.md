@@ -27,6 +27,7 @@ A series of nodes/vertices with some amount of connections.
     - Can be iterative or recursive
 - Breadth first traversal
     - Queue Data Structure
+    - Can only be iterative
 - cyclic
    - has a loop
 - acyclic
