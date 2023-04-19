@@ -1,0 +1,18 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "Practice with Data Structures and Algorithms",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajenkins198621/data-structures-and-algorithms.git"
+  },
+  "author": "Austin Jenkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajenkins198621/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/ajenkins198621/data-structures-and-algorithms#readme"
+}
