@@ -1,7 +1,7 @@
 # Data Structures & Algorithms
 Practice using Data Structures and Algorithms
 
-As a "self-taught" developer, I never had the opportunity to learn about data structures and algorithms in a formal setting. I have been working on my own to learn about them and practice using them. This repository is a collection of my work.
+As a "self-taught" developer transitioning into engineer, I never had the opportunity to learn about data structures and algorithms in a formal setting. I have been working on my own to learn about them and practice using them. This repository is a collection of my work.
 
 ## Data Structures
 
