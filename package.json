@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Practice with Data Structures and Algorithms",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/ajenkins198621/data-structures-and-algorithms/issues"
   },
-  "homepage": "https://github.com/ajenkins198621/data-structures-and-algorithms#readme"
+  "homepage": "https://github.com/ajenkins198621/data-structures-and-algorithms#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
