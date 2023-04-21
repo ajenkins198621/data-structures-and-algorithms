@@ -5,6 +5,14 @@ As a "self-taught" developer transitioning into engineer, I never had the opport
 
 ## Data Structures
 
+### Arrays
+
+- Algorithms
+    - Linear Search - very basic!
+
+- Strategies:
+    - Two pointers
+
 ### Graphs
 A series of nodes/vertices with some amount of connections.
 
@@ -29,13 +37,17 @@ A series of nodes/vertices with some amount of connections.
     - Queue Data Structure
     - Can only be iterative
 - cyclic
-   - has a loop
+    - has a loop
+    - beware of infinite loops
 - acyclic
     - no loops
 - directed
-   - has arrows
+    - has arrows
+    - edges are unidirectional
 - undirected
-   - no arrows
+    - no arrows
+    - edges are bidirectional
+    - convert the edges array to a graph (adjacency list)
 - weighted
     - has values
 - unweighted
