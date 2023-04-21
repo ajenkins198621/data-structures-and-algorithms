@@ -8,7 +8,10 @@ As a "self-taught" developer transitioning into engineer, I never had the opport
 ### Arrays
 
 - Algorithms
-    - Linear Search - very basic!
+    - Linear Search - very basic! O(n)
+    - Is it ordered?
+        - Binary Search - O(log n)
+            - Cut in half each time
 
 - Strategies:
     - Two pointers
