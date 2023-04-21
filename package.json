@@ -16,6 +16,9 @@
   },
   "homepage": "https://github.com/ajenkins198621/data-structures-and-algorithms#readme",
   "devDependencies": {
-    "jest": "^29.5.0"
+    "@babel/preset-env": "^7.21.4",
+    "@babel/preset-typescript": "^7.21.4",
+    "jest": "^29.5.0",
+    "typescript": "^5.0.4"
   }
 }
