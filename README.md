@@ -15,6 +15,18 @@ As a "self-taught" developer transitioning into engineer, I never had the opport
 
 - Strategies:
     - Two pointers
+    - Sliding Windows
+        - Two Pointers
+        - Subarrays aka windows
+        - Usually the window/subarray is "better" (shorter length, longer sum, etc)
+
+ - Other Algorithms:
+    - Two glass balls O(sqrt(n))
+        - Jump square root until it breaks
+        - and a building with N floors. Find the floor where the glass balls will break.
+            - https://sites.google.com/site/mytechnicalcollection/algorithms/dynamic-programming/two-glass-balls
+
+
 
 ### Graphs
 A series of nodes/vertices with some amount of connections.
