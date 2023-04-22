@@ -26,7 +26,13 @@ As a "self-taught" developer transitioning into engineer, I never had the opport
         - and a building with N floors. Find the floor where the glass balls will break.
             - https://sites.google.com/site/mytechnicalcollection/algorithms/dynamic-programming/two-glass-balls
 
+### Sorting Algorithms
 
+#### Bubble Sort
+- O(n^2)
+- Compare each item to the next item
+- If the next item is smaller, swap them
+- Repeat until no swaps are made
 
 ### Graphs
 A series of nodes/vertices with some amount of connections.
