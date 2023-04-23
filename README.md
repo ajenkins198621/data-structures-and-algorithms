@@ -29,6 +29,26 @@ As a "self-taught" developer transitioning into engineer, I never had the opport
         - and a building with N floors. Find the floor where the glass balls will break.
             - https://sites.google.com/site/mytechnicalcollection/algorithms/dynamic-programming/two-glass-balls
 
+### Linked Lists
+    - Single Linked List
+        - Head
+        - Tail
+        - Node
+            - Value
+            - Next
+    - Doubly Linked List
+        - Head
+        - Tail
+        - Node
+            - Value
+            - Next
+            - Previous
+    - Time Complexity for linked list:
+        - Insertion: O(1)
+        - Removal: O(1) or O(n)
+        - Searching: O(n)
+        - Access: O(n)
+
 ### Sorting Algorithms
 
 #### Bubble Sort
