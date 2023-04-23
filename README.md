@@ -19,6 +19,9 @@ As a "self-taught" developer transitioning into engineer, I never had the opport
         - Two Pointers
         - Subarrays aka windows
         - Usually the window/subarray is "better" (shorter length, longer sum, etc)
+    - Prefix sum O(1)
+        - Integer arrays
+        - Sum of all elements up to a certain index
 
  - Other Algorithms:
     - Two glass balls O(sqrt(n))
