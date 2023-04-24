@@ -49,6 +49,13 @@ As a "self-taught" developer transitioning into engineer, I never had the opport
         - Searching: O(n)
         - Access: O(n)
 
+
+### Queue
+    - FIFO
+    - Enqueue
+    - Dequeue
+    - Peek
+
 ### Sorting Algorithms
 
 #### Bubble Sort
