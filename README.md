@@ -56,6 +56,12 @@ As a "self-taught" developer transitioning into engineer, I never had the opport
     - Dequeue
     - Peek
 
+### Stack
+    - LIFO
+    - Push
+    - Pop
+    - Peek
+
 ### Hashing
     - Hash Table
         - Hash Function
