@@ -56,6 +56,24 @@ As a "self-taught" developer transitioning into engineer, I never had the opport
     - Dequeue
     - Peek
 
+### Hashing
+    - Hash Table
+        - Hash Function
+        - Collisions
+            - Separate Chaining
+            - Linear Probing
+    - Hash Set (new Set())
+        - Hash Function
+        - Collisions
+            - Separate Chaining
+            - Linear Probing
+    - Hash Map (new Map())
+        - Hash Function
+        - Collisions
+            - Separate Chaining
+            - Linear Probing
+
+
 ### Sorting Algorithms
 
 #### Bubble Sort
