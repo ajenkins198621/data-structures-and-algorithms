@@ -77,8 +77,29 @@ As a "self-taught" developer transitioning into engineer, I never had the opport
         - Hash Function
         - Collisions
             - Separate Chaining
-            - Linear Probing
+            - Linear Probing        
 
+### Arrays vs Linked Lists
+    - Arrays
+        - Fast lookups
+        - Slow inserts
+        - Slow deletes
+        - Fixed size
+        - Better than Linked Lists for Stack
+    - Linked Lists
+        - Slow lookups
+        - Fast inserts
+        - Fast deletes
+        - Dynamic size
+        - Better than Arrays for Queue
+
+### ArrayList
+    - Resizing
+        - O(n) time complexity
+        - O(n) space complexity
+    - Amortization
+        - O(1) time complexity
+        - O(n) space complexity
 
 ### Sorting Algorithms
 
