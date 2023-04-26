@@ -94,6 +94,7 @@ As a "self-taught" developer transitioning into engineer, I never had the opport
         - Better than Arrays for Queue
 
 ### ArrayList
+An ArrayList is a dynamic array data structure that can grow or shrink in size as needed. It's similar to a regular Array in JavaScript, but provides more flexibility in terms of resizing and manipulation. 
     - Resizing
         - O(n) time complexity
         - O(n) space complexity
