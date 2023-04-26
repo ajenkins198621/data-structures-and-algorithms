@@ -102,6 +102,15 @@ An ArrayList is a dynamic array data structure that can grow or shrink in size a
         - O(1) time complexity
         - O(n) space complexity
 
+### ArrayBuffer or Ring Buffer
+A ring buffer is a fixed size array that is treated as if it were connected end-to-end. When the buffer is full, new data is written starting at the beginning of the buffer and overwriting the old.
+    - Resizing
+        - O(1) time complexity
+        - O(1) space complexity
+    - Amortization
+        - O(1) time complexity
+        - O(1) space complexity
+
 ### Sorting Algorithms
 
 #### Bubble Sort
