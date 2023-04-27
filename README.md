@@ -79,6 +79,9 @@ As a "self-taught" developer transitioning into engineer, I never had the opport
             - Separate Chaining
             - Linear Probing        
 
+### Counting
+
+
 ### Arrays vs Linked Lists
     - Arrays
         - Fast lookups
