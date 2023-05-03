@@ -122,6 +122,18 @@ A ring buffer is a fixed size array that is treated as if it were connected end-
 - If the next item is smaller, swap them
 - Repeat until no swaps are made
 
+#### Quick Sort
+- Divide and conquer
+- O(n log n) best case and average case, O(n^2) worst case
+- Pick a pivot
+- Move all items smaller than the pivot to the left
+- Move all items larger than the pivot to the right
+- Repeat on the left and right sides
+- Low and high pointers
+- Usually split into two functions
+    - Partition - Produces the pivot index and moves items to the left or right of the pivot
+    - Quick Sort - Recursively calls itself on the left and right sides
+
 ### Graphs
 A series of nodes/vertices with some amount of connections.
 
