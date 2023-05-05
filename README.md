@@ -162,15 +162,15 @@ A ring buffer is a fixed size array that is treated as if it were connected end-
 ##### Three Types
 - Preorder
     - Visit Node
-    - Traverse Left
-    - Traverse Right
+    - Traverse Left / Recurse Left
+    - Traverse Right / Recurse Right
 - Inorder
-    - Traverse Left
+    - Traverse Left / Recurse Left
     - Visit Node
-    - Traverse Right
+    - Traverse Right / Recurse Right
 - Postorder
-    - Traverse Left
-    - Traverse Right
+    - Traverse Left / Recurse Left
+    - Traverse Right / Recurse Right
     - Visit Node
 
 - Breadth First Search
