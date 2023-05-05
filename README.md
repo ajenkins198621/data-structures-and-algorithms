@@ -134,6 +134,25 @@ A ring buffer is a fixed size array that is treated as if it were connected end-
     - Partition - Produces the pivot index and moves items to the left or right of the pivot
     - Quick Sort - Recursively calls itself on the left and right sides
 
+
+### Trees
+### Terminology
+- root - the top node in a tree.  The most parent node.
+- height - the number of edges from the root to the bottommost node.  The number of levels in a tree. One strand can be longer than all the others.
+- binary tree - a tree where each node has at most two children.  Very common.  Has left and right children.
+- binary search tree - a binary tree where each node's left child is less than the parent and each node's right child is greater than the parent.  Not a weak ordering
+- general tree - a tree where each node can have any number of children.  One to many.
+- leaf - a node with no children
+- balanced tree - a tree where the height of the left and right subtrees of any node differ by at most one.  The height of the tree is O(log n).
+- unbalanced tree - a tree where the height of the left and right subtrees of any node differ by more than one.  The height of the tree is O(n).
+- branching factor - the number of children a node has
+
+- edge - the connection between two nodes
+- path - a sequence of nodes and edges connecting a node with a descendant
+- ancestor - a node on the path from the root to a node
+- descendant - a node on the path from a node to a leaf
+- subtree - a tree whose nodes are descendants of another node
+
 ### Graphs
 A series of nodes/vertices with some amount of connections.
 
