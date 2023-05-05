@@ -153,6 +153,33 @@ A ring buffer is a fixed size array that is treated as if it were connected end-
 - descendant - a node on the path from a node to a leaf
 - subtree - a tree whose nodes are descendants of another node
 
+#### Traverse a Tree
+
+- Visit Node
+- Traverse Left
+- Traverse Right
+
+##### Three Types
+- Preorder
+    - Visit Node
+    - Traverse Left
+    - Traverse Right
+- Inorder
+    - Traverse Left
+    - Visit Node
+    - Traverse Right
+- Postorder
+    - Traverse Left
+    - Traverse Right
+    - Visit Node
+
+- Breadth First Search
+    - Queue
+    - Iterative
+- Depth First Search
+    - Stack
+    - Recursive or Iterative
+
 ### Graphs
 A series of nodes/vertices with some amount of connections.
 
